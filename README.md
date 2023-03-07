@@ -1,2 +1,3 @@
 My first readme
-
+ALX asked me to update you, lol
+Anyways, whatever you do always, EAT, SLEEP, CODE, REGRET, REPEAT...
